@@ -1,7 +1,1 @@
 Reinitialized existing Git repository in /home/pi/Documents/VegetableImages/.git/
-[main b0c7d9e] commited
- 2 files changed, 1 insertion(+), 1 deletion(-)
- rewrite images/B3-14.jpg (97%)
-To github.com:Markwongs/VegetableImages.git
-   432502f..b0c7d9e  main -> main
-Branch 'main' set up to track remote branch 'main' from 'origin'.
