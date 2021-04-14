@@ -1,5 +1,8 @@
 import cv2 as cv
 import time
+
+print("-"*50)
+print("Image Capturing")
 capture = cv.VideoCapture(0)
 time.sleep(4)
 capture.set(cv.CAP_PROP_FRAME_HEIGHT, 5000)
@@ -15,3 +18,4 @@ while True:
 capture.release()
 cv.destroyAllWindows()
 print("Image Captured")
+print("-"*50)
