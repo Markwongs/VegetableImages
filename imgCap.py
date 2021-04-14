@@ -14,3 +14,4 @@ while True:
                 
 capture.release()
 cv.destroyAllWindows()
+print("Image Captured")
