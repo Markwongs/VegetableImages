@@ -1,13 +1,5 @@
+--------------------------------------------------
+Image Capturing
+Image Captured
+--------------------------------------------------
 Reinitialized existing Git repository in /home/pi/Documents/VegetableImages/.git/
-[main abe5850] commited
- 6 files changed, 25 insertions(+), 8 deletions(-)
- delete mode 100755 auto2
- rewrite images/B4-12.jpg (84%)
- create mode 100644 images/B4-13.jpg
- create mode 100644 imgTest.py
- create mode 100644 pycam.py
-ssh: Could not resolve hostname github.com: Temporary failure in name resolution
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
