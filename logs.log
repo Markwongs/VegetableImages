@@ -3,3 +3,10 @@
      ^
 SyntaxError: invalid syntax
 Reinitialized existing Git repository in /home/pi/Documents/VegetableImages/.git/
+[main 648a97b] commited
+ 2 files changed, 5 insertions(+), 17 deletions(-)
+ create mode 100644 .imgCap.py.swp
+ rewrite logs.log (90%)
+To github.com:Markwongs/VegetableImages.git
+   d4de339..648a97b  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
