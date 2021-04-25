@@ -3,3 +3,15 @@ Image Capturing
 Image Captured
 --------------------------------------------------
 Reinitialized existing Git repository in /home/pi/Documents/VegetableImages/.git/
+[main 223c83b] commited
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .imgCap.py.swp
+ create mode 100644 images/B4-25.jpg
+To github.com:Markwongs/VegetableImages.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'git@github.com:Markwongs/VegetableImages.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
