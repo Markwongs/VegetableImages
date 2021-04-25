@@ -3,3 +3,9 @@
             ^
 SyntaxError: invalid syntax
 Reinitialized existing Git repository in /home/pi/Documents/VegetableImages/.git/
+[main 8c1998d] commited
+ 1 file changed, 5 insertions(+), 12 deletions(-)
+ rewrite logs.log (75%)
+To github.com:Markwongs/VegetableImages.git
+   565cea1..8c1998d  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.

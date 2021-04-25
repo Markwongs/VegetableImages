@@ -1,4 +1,4 @@
-mport cv2 as cv
+import cv2 as cv
 import time
 
 print("-"*50)
