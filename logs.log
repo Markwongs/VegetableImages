@@ -3,9 +3,3 @@ Image Capturing
 Image Captured
 --------------------------------------------------
 Reinitialized existing Git repository in /home/pi/Documents/VegetableImages/.git/
-[main 35200eb] commited
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 images/B4-26-17-50.jpg
-To github.com:Markwongs/VegetableImages.git
-   788a2f9..35200eb  main -> main
-Branch 'main' set up to track remote branch 'main' from 'origin'.
