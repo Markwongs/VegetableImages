@@ -5,9 +5,10 @@ cap = cv.VideoCapture(0)
 
 while True:
     ret, frame = cap.read()
-
-    cv.imshow('frame', frame)
-    if cv.waitKey(1) & 0xFF == crd('q'):
+    
+    resize = cv.resize(frame, (1920,1080))
+    cv.imshow('frame', resize)
+    if cv.waitKey(1) & 0xFF == ord('q'):
         break
 
 cap.release()
