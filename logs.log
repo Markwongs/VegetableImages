@@ -1,5 +1,3 @@
-VIDEOIO ERROR: V4L2: Pixel format of incoming image is unsupported by OpenCV
-Unable to stop the stream: Device or resource busy
 --------------------------------------------------
 Image Capturing
 Image Captured
